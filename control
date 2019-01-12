@@ -1,0 +1,10 @@
+Package: com.idevicehacked.bluelaunch
+Name: BlueLaunch
+Depends: mobilesubstrate, applist
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: LucifersCircle
+Author: LucifersCircle
+Section: Tweaks
+Depiction: https://idevicehacked.com/beta/depictions/?p=com.idevicehacked.bluelaunch
